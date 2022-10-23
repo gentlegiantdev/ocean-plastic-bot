@@ -1,0 +1,25 @@
+{
+  "name": "oceanplasticbot",
+  "version": "1.0.0",
+  "description": "Twitter bot that draws attention to the 5.25+ trillion pieces of plastic in our oceans. Let's all try to use less plastic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Jakobsen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.8.1",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentlegiantdev/oceanplasticbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gentlegiantdev/oceanplasticbot/issues"
+  },
+  "homepage": "https://github.com/gentlegiantdev/oceanplasticbot#readme"
+}
